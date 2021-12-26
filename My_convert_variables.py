@@ -10,4 +10,4 @@ print(f"your age + 10 is {your_age_as_number} ")
 
 your_age_as_text = str(your_age_as_number)
 
-print("your age is 10 " + your_age_as_text)
+print("your age + 10 is equal to : " + your_age_as_text)
