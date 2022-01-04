@@ -4,7 +4,7 @@ user_in = ""
 
 # while loop block
 while user_in != "Done":
-    user_in = input("Please provide IP Address or type Done to quit: ")
+    user_in = input("Please provide an IP Address or type Done to quit the program: ")
     if user_in != "Done":
         ips.append(user_in)
     else:  
