@@ -1,0 +1,5 @@
+mode=Infrastructure
+host=172.16.10.254
+port=22
+user=admin
+password=P@$$w0rd
