@@ -1,5 +1,5 @@
 mode=Infrastructure
-host=172.16.10.254
+host=172.16.20.1
 port=22
-user=admin
+user=root
 password=P@$$w0rd
