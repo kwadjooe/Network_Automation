@@ -26,7 +26,7 @@ else:
 print('\n')
 print(f"Here is the content of my dictionary after modification\n{config}\n")
 
-with open("config.txt", "w") as f:
+with open("config.txt", "a") as f:
     for key, value in config.items():
         l = f"{key}={value}\n"
         f.write(l)
