@@ -1,3 +1,4 @@
 note.txt
 *.txt
 !config.txt
+lab/
